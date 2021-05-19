@@ -1,0 +1,94 @@
+{
+  "collection": [
+    {
+      "container": {
+        "variant": "cards.interactive"
+      },
+      "text": [
+        null,
+        {
+          "text": "Victoria Square Centre",
+          "color": "omegaDarker",
+          "variant": "h4"
+        },
+        {
+          "text": "Victoria Square is a well-performing shopping centre due to its outstanding location and synergistic balance of products and services. The Property is able to further capitalize on the strong features of the market as well as the property itself by taking advantage of value-add opportunities."
+        }
+      ],
+      "images": [
+        {
+          "src": "../../../assets/projects/victoria_square/VicSquare-1.jpg",
+          "alt": "alt text"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Learn More   ➜",
+          "type": "PAGE",
+          "link": "/projects/vicSquare",
+          "variant": "primary-light"
+        }
+      ]
+    },
+    {
+      "container": {
+        "variant": "cards.interactive"
+      },
+      "text": [
+        null,
+        {
+          "text": "Capital City Centre East",
+          "color": "omegaDarker",
+          "variant": "h4"
+        },
+        {
+          "text": "Located at the intersection of Ring Road and Victoria Avenue East (Highway 1), the centre benefits from exceptional exposure along two major arterial thoroughfares. This property is shadow-anchored by a major home improvement store, which drives traffic to Capital City Centre."
+        }
+      ],
+      "images": [
+        {
+          "src": "../../../assets/projects/capital_square_centre/capitalCityCrentreEast.jpg",
+          "alt": "alt text"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Learn More   ➜",
+          "type": "PAGE",
+          "link": "/projects/capCentreEast",
+          "variant": "primary-light"
+        }
+      ]
+    },
+    {
+      "container": {
+        "variant": "cards.interactive"
+      },
+      "text": [
+        null,
+        {
+          "text": "Capital Square Centre West",
+          "color": "omegaDarker",
+          "variant": "h4"
+        },
+        {
+          "text": "Located at the intersection of Ring Road and Victoria Avenue East (Highway 1), the centre benefits from exceptional exposure along two major arterial thoroughfares. This property is shadow-anchored by a major home improvement store, which drives traffic to Capital City Centre."
+        }
+      ],
+      "images": [
+        {
+          "src": "../../../assets/projects/capital_square_centre/capitalCityCrentreWest.jpg",
+          "alt": "alt text"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Learn More   ➜",
+          "type": "PAGE",
+          "link": "/projects/capCentreWest",
+          "variant": "primary-light"
+        }
+      ]
+    }
+  ]
+}

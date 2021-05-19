@@ -1,0 +1,35 @@
+{
+  "container": {
+    "bg": "linear-gradient(25deg, {{omegaDark}} 0%, {{omegaDarker}} 100%)"
+  },
+  "text": [
+    {
+      "text": "Schedule a Consultation",
+      "color": "omega",
+      "variant": "h3"
+    },
+    {
+      "text": "Find out more.",
+      "color": "white",
+      "variant": "h1"
+    }
+  ],
+  "images": [
+    {
+      "src": "../../../assets/projects/building1.jpg",
+      "alt": "alt text",
+      "radius": "lg",
+      "shadow": "lg",
+      "effects": ["fadeInLeft"]
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Contact Us",
+      "type": "MODAL",
+      "link": "contact",
+      "variant": "secondary-light"
+    }
+  ]
+  
+}

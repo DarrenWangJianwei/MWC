@@ -1,0 +1,31 @@
+{
+  "text": [
+    {
+      "text": "Private Equity Firm For Commerical Real Estate",
+      "variant": "h4",
+      "color": "omegaDarker"
+    },
+    {
+      "text": "Mountwater Capital",
+      "variant": "h2"
+    },
+    {
+      "text": "Mountwater Capital is a Vancouver-based private equity investment firm that purchases undervalued commercial assets, such as enclosed shopping malls and office towers, and transforms them – bringing value to customers, tenants and our clients/investors.",
+      "variant": "medium"
+    }
+  ],
+  "images": [
+    {
+      "src": "../../../assets/index/heroImage.jpg",
+      "alt": "alt text"
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Get Started",
+      "type": "MODAL",
+      "link": "contact",
+      "variant": "secondary"
+    }
+  ]
+}

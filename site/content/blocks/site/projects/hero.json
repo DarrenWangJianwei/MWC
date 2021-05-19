@@ -1,0 +1,23 @@
+{
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Lastest Projects",
+          "color": "white",
+          "variant": "h3"
+        },
+        {
+          "text": "What We did.",
+          "color": "betaLight",
+          "variant": "h1"
+        },
+        {
+          "text": "Commerical Real Estate.",
+          "color": "omega",
+          "variant": "medium"
+        }
+      ]
+    }
+  ]
+}

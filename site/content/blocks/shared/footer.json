@@ -1,0 +1,72 @@
+{
+  "images": [
+    {
+      "src": "../../assets/logo.png",
+      "alt": "alt text"
+    }
+  ],
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Quick Links"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Home",
+          "type": "ANCHOR",
+          "link": "#hero",
+          "variant": "links.nav-light"
+        },
+        {
+          "text": "Blog",
+          "type": "MODAL",
+          "link": "advertisement",
+          "variant": "links.nav-light"
+        },
+        {
+          "text": "Contact Us",
+          "type": "MODAL",
+          "link": "contact",
+          "variant": "links.nav-light"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "Legal Stuff"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Privacy Notice",
+          "type": "PAGE",
+          "link": "",
+          "variant": "links.nav-light"
+        },
+        {
+          "text": "Cookie Policy",
+          "type": "PAGE",
+          "link": "",
+          "variant": "links.nav-light"
+        },
+        {
+          "text": "Terms Of Use",
+          "type": "PAGE",
+          "link": "",
+          "variant": "links.nav-light"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "Social Media"
+        }
+      ]
+
+    }
+  ]
+}

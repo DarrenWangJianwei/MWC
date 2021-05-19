@@ -1,0 +1,73 @@
+{
+  "text": [
+    {
+      "text": "Our Strategy",
+      "color": "alpha",
+      "variant": "h4"
+    },
+    {
+      "text": "Focuses on Commercial Real Estate ",
+      "variant": "h2"
+    },
+    {
+      "text": "It is an attractive investment model that presents a large upside and higher net operating income (NOI) for investors, while leveraging the opportunity to own properties that are valued higher due to the low capitalization rates unique to these types of assets.",
+      "variant": "medium"
+    }
+  ],
+  "images": [
+    {
+      "src": "../../../assets/index/feature-one.jpg",
+      "alt": "alt text"
+    }
+  ],
+  "collection": [
+    {
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-check-circle.svg",
+        "color": "beta"
+      },
+      "text": [
+        {
+          "text": "Spend time and effort to identify undervalued assets.",
+          "variant": "h5"
+        }
+      ]
+    },
+    {
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-check-circle.svg",
+        "color": "beta"
+      },
+      "text": [
+        {
+          "text": "Undertake an analytical review on the value the company can add.",
+          "variant": "h5"
+        }
+      ]
+    },
+    {
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-check-circle.svg",
+        "color": "beta"
+      },
+      "text": [
+        {
+          "text": "Work with stakeholders and local communities on the potential opportunities.",
+          "variant": "h5"
+        }
+      ]
+    },
+    {
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-check-circle.svg",
+        "color": "beta"
+      },
+      "text": [
+        {
+          "text": "Create wealth by making business connections, providing management expertise, resource management and technology improvements.",
+          "variant": "h5"
+        }
+      ]
+    }
+  ]
+}

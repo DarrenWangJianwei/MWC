@@ -1,0 +1,78 @@
+{
+  "text": [
+    {
+      "text": "Out Team",
+      "color": "alpha",
+      "variant": "h4"
+    },
+    {
+      "text": "Leadership",
+      "variant": "h2"
+    }
+  ],
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Richard Cao",
+          "variant": "h5"
+        },
+        {
+          "text": "COO",
+          "variant": "h6",
+          "space": 2
+        },
+        {
+          "text": "Richard Cao brings his decades of experience running private companies and investing in real estate in China. Since 2014, Richard has called West Vancouver home where he built single family homes before turning his attention to the acquisition of multi-family properties, land integration and enclosed shopping malls.",
+          "variant": "p"
+        }
+      ],
+      "avatar": {
+        "src": "../../../assets/flexiblocks/testimonials/john-doe.png",
+        "alt": "alt text"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Bing Wang",
+          "variant": "h5"
+        },
+        {
+          "text": "Professional Accountant",
+          "variant": "h6",
+          "space": 2
+        },
+        {
+          "text": "Bing Wang is a financial professional and management consultant with a decade of experience providing financial and business services for private companies. A Chartered Professional Accountant, at Mountwater Capital Bing focuses on financing and structuring debt.",
+          "variant": "p"
+        }
+      ],
+      "avatar": {
+        "src": "../../../assets/flexiblocks/testimonials/john-doe.png",
+        "alt": "alt text"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Chen Tan",
+          "variant": "h5"
+        },
+        {
+          "text": "Professional Accountant ",
+          "variant": "h6",
+          "space": 2
+        },
+        {
+          "text": "Chen Tan is a Chartered Professional Accountant who graduated with honours from the Sauder School of Business. With a background in tax planning, Chen has more than 10 years of full-time experience as a senior tax manager in a major accounting firm and served as a senior tax auditor in the Canada Revenue Agency. Chen’s background is in helping high-asset families with tax planning. .",
+          "variant": "p"
+        }
+      ],
+      "avatar": {
+        "src": "../../../assets/flexiblocks/testimonials/john-doe.png",
+        "alt": "alt text"
+      }
+    }
+  ]
+}

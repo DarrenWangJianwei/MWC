@@ -1,0 +1,19 @@
+{
+  "text": [
+    {
+      "text": "Purchased in 2020",
+      "color": "alpha",
+      "variant": "h4"
+    },
+    {
+      "text": "Victoria Square Centre",
+      "color": "omegaDarker",
+      "variant": "h1"
+    },
+    {
+      "text": "2223 Victoria Ave E, Regina, SK S4N 6E4",
+      "color": "omegaDark",
+      "variant": "medium"
+    }
+  ]
+}
