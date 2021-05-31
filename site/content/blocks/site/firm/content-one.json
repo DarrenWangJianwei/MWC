@@ -1,0 +1,36 @@
+{
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Our Firm",
+          "color": "alpha",
+          "variant": "h4"
+        },
+        {
+          "text": "Earning, building & retaining trust.",
+          "color": "omegaDarker",
+          "variant": "h3"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "Our company focuses primarily on commercial real estate assets across North America, connecting investors to cash-flow positive properties, and in the process, driving growth for investors and communities alike.",
+          "color": "omegaDark",
+          "variant": "p"
+        },
+        {
+          "text": "We carefully select enclosed shopping malls with easy-to-change floor plans, shared spaces, long-term tenants, and the potential to add value through upgrading and retrofitting. Our improvements are designed to enhance the customer’s overall experience and bring immediate value to our tenants and to our investors. We also select office towers that are cash-flow positive.",
+          "color": "omegaDark",
+          "variant": "p"
+        },
+        {
+          "text": "Our retail and commercial tenants and the communities we serve are the core of our business. Our reputation is based on honest relationships with these tenants and their communities, and with our investors. We earn their trust every day with every decision, every interaction and every transaction, working in our collective interests.",
+          "color": "omegaDark"
+        }
+      ]
+    }
+  ]
+}

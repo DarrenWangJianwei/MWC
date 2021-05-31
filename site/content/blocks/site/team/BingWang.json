@@ -1,0 +1,31 @@
+{
+  "text": [
+    {
+      "text": "Bing Wang, **CPA**",
+      "color": "#805AD5",
+      "variant": "h2",
+      "space": 3
+    }
+  ],
+  "images": [
+    {
+      "src": "../../../assets/team/business_man.jpg",
+      "alt": "alt text"
+    }
+  ],
+  "collection": [
+    {
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-layer-plus.svg",
+        "color": "#805AD5",
+        "bg": "transparent"
+      },
+      "text": [
+        {
+          "text": "Bing Wang is a financial professional and management consultant with a decade of experience providing financial and business services for private companies. A Chartered Professional Accountant, at Mountwater Capital Bing focuses on financing and structuring debt, as well as corporate governance and property management.",
+          "space": 1
+        }
+      ]
+    }
+  ]
+}

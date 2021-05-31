@@ -1,0 +1,58 @@
+{
+  "text": [
+    {
+      "text": "Our Values",
+      "variant": "h2"
+    }
+  ],
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Connection",
+          "variant": "h5"
+        },
+        {
+          "text": "We absolutely bring the best of ourselves to connect resources together."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-chat.svg",
+        "bg": "transparent",
+        "color": "omega"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Prosperity",
+          "variant": "h5"
+        },
+        {
+          "text": "We choose approaches that drive innovation and growth for our tenants, our shareholders and our stakeholders."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-directions.svg",
+        "bg": "transparent",
+        "color": "omega"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Trust",
+          "variant": "h5"
+        },
+        {
+          "text": "We build trusting relationships and strive to be a good corporate citizen."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-crown.svg",
+        "bg": "transparent",
+        "color": "omega"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Property Access",
+          "color": "omegaDarker",
+          "variant": "h3",
+          "space": 3
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "Access to the site is provided via the highway, with additional access points along Truesdale Drive, Quance Street and University Park Drive.",
+          "color": "omegaDark"
+        }
+      ]
+    }
+  ]
+}

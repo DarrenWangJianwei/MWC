@@ -1,0 +1,20 @@
+{
+  "text": [
+    {
+      "text": "Learn more about how we work",
+      "color": "alpha",
+      "variant": "h5"
+    },
+    {
+      "text": "We help our clients achieve tangible, high-impact results."
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Our Firm",
+      "type": "PAGE",
+      "link": "/firm",
+      "variant": "primary-light"
+    }
+  ]
+}

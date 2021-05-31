@@ -20,14 +20,6 @@
           "src": "../../../assets/projects/victoria_square/VicSquare-1.jpg",
           "alt": "alt text"
         }
-      ],
-      "buttons": [
-        {
-          "text": "Learn More   ➜",
-          "type": "PAGE",
-          "link": "/projects/vicSquare",
-          "variant": "primary-light"
-        }
       ]
     },
     {
@@ -50,14 +42,6 @@
           "src": "../../../assets/projects/capital_square_centre/capitalCityCrentreEast.jpg",
           "alt": "alt text"
         }
-      ],
-      "buttons": [
-        {
-          "text": "Learn More   ➜",
-          "type": "PAGE",
-          "link": "/projects/capCentreEast",
-          "variant": "primary-light"
-        }
       ]
     },
     {
@@ -79,14 +63,6 @@
         {
           "src": "../../../assets/projects/capital_square_centre/capitalCityCrentreWest.jpg",
           "alt": "alt text"
-        }
-      ],
-      "buttons": [
-        {
-          "text": "Learn More   ➜",
-          "type": "PAGE",
-          "link": "/projects/capCentreWest",
-          "variant": "primary-light"
         }
       ]
     }

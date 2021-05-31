@@ -1,0 +1,31 @@
+{
+  "text": [
+    {
+      "text": "Chen Tan, **CPA**",
+      "color": "#805AD5",
+      "variant": "h2",
+      "space": 3
+    }
+  ],
+  "images": [
+    {
+      "src": "../../../assets/team/business_man.jpg",
+      "alt": "alt text"
+    }
+  ],
+  "collection": [
+    {
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-layer-plus.svg",
+        "color": "#805AD5",
+        "bg": "transparent"
+      },
+      "text": [
+        {
+          "text": "A Chartered Professional Accountant, Chen Tan graduated with honours from the UBC Sauder School of Business. With a background in tax planning, Chen has more than 10 years of full-time experience as a senior tax manager in a tax specialist group. She served as a senior tax auditor in the Canada Revenue Agency and helps high-asset families with tax planning. At Mountwater Capital, Chen is responsible for financial operation and compliance.",
+          "space": 1
+        }
+      ]
+    }
+  ]
+}

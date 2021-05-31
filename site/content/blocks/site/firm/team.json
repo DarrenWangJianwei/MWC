@@ -1,0 +1,29 @@
+{
+  "container": {
+    "bg": "linear-gradient(25deg, {{omegaDark}} 0%, {{omegaDarker}} 100%)"
+  },
+  "text": [
+    {
+      "text": "Get to know our team",
+      "color": "white",
+      "variant": "h1"
+    }
+  ],
+  "images": [
+    {
+      "src": "../../../assets/firm/team.jpg",
+      "alt": "alt text",
+      "radius": "lg",
+      "shadow": "lg",
+      "effects": ["fadeInLeft"]
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Members ➜",
+      "type": "PAGE",
+      "link": "/team",
+      "variant": "secondary-light"
+    }
+  ]
+}

@@ -12,12 +12,12 @@
           "space": 3
         },
         {
-          "text": "Any questions or remarks?",
+          "text": "Do our values align?",
           "color": "omegaDark"
         },
         {
-          "text": "We'll get back you within 24 hours.",
-          "color": "omega"
+          "text": "Does our approach interest you?",
+          "color": "omegaDark"
         }
       ],
       "images": [
@@ -91,12 +91,8 @@
           "space": 3
         },
         {
-          "text": "Have some feedback for us?",
-          "color": "omegaDark"
-        },
-        {
-          "text": "Give us a call or send an email.",
-          "color": "omega"
+          "text": "Contact us to talk about working together to achieve your investment and participation goals.",
+          "color": "omegaDarker"
         }
       ],
       "map": {

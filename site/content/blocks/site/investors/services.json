@@ -1,0 +1,197 @@
+{
+  "text": [
+    {
+      "text": "Our Services to Investors",
+      "variant": "h2"
+    }
+  ],
+  "icon": {
+    "src": "../../../assets/flexiblocks/icons/bx-analyse.svg",
+    "alt": "alt text"
+  },
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Asset Management",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Mountwater's Asset Management team is responsible for the strategic direction and overall performance of each property under management, based on individual investment requirements."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-user-voice.svg",
+        "bg": "omegaLighter",
+        "color": "beta"
+      },
+      "collection": [
+        {
+          "text": [
+            {
+              "text": "Responsible for Each Property",
+              "color": "omegaDark",
+              "variant": "h6"
+            }
+          ],
+          "icon": {
+            "src": "../../../assets/flexiblocks/icons/bx-check-circle.svg",
+            "alt": "alt text",
+            "color": "omegaDark"
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Overall Performance",
+              "color": "omegaDark",
+              "variant": "h6"
+            }
+          ],
+          "icon": {
+            "src": "../../../assets/flexiblocks/icons/bx-check-circle.svg",
+            "alt": "alt text",
+            "color": "omegaDark"
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Consistently Deliver Outcome",
+              "color": "omegaDark",
+              "variant": "h6"
+            }
+          ],
+          "icon": {
+            "src": "../../../assets/flexiblocks/icons/bx-check-circle.svg",
+            "alt": "alt text",
+            "color": "omegaDark"
+          }
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "Property Management",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Mountwater Capital provides quality Property Management services that include leasing, tenant coordination, marketing, construction management, and development."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-pen.svg",
+        "bg": "omegaLighter",
+        "color": "beta"
+      },
+      "collection": [
+        {
+          "text": [
+            {
+              "text": "Leasing Service",
+              "color": "omegaDark",
+              "variant": "h6"
+            }
+          ],
+          "icon": {
+            "src": "../../../assets/flexiblocks/icons/bx-check-circle.svg",
+            "alt": "alt text",
+            "color": "omegaDark"
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Tenant Coordination and Market",
+              "color": "omegaDark",
+              "variant": "h6"
+            }
+          ],
+          "icon": {
+            "src": "../../../assets/flexiblocks/icons/bx-check-circle.svg",
+            "alt": "alt text",
+            "color": "omegaDark"
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Construction Management and Development",
+              "color": "omegaDark",
+              "variant": "h6"
+            }
+          ],
+          "icon": {
+            "src": "../../../assets/flexiblocks/icons/bx-check-circle.svg",
+            "alt": "alt text",
+            "color": "omegaDark"
+          }
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "Investment Management",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Mountwater Capital invests in properties across Canada through its pooled funds and separate accounts and from core to value-add strategies."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-target-lock.svg",
+        "bg": "omegaLighter",
+        "color": "beta"
+      },
+      "collection": [
+        {
+          "text": [
+            {
+              "text": "True alignment of interests",
+              "color": "omegaDark",
+              "variant": "h6"
+            }
+          ],
+          "icon": {
+            "src": "../../../assets/flexiblocks/icons/bx-check-circle.svg",
+            "alt": "alt text",
+            "color": "omegaDark"
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Easy-in and Fast-out",
+              "color": "omegaDark",
+              "variant": "h6"
+            }
+          ],
+          "icon": {
+            "src": "../../../assets/flexiblocks/icons/bx-check-circle.svg",
+            "alt": "alt text",
+            "color": "omegaDark"
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Scheduled reports",
+              "color": "omegaDark",
+              "variant": "h6"
+            }
+          ],
+          "icon": {
+            "src": "../../../assets/flexiblocks/icons/bx-check-circle.svg",
+            "alt": "alt text",
+            "color": "omegaDark"
+          }
+        }
+      ]
+    }
+  ]
+}

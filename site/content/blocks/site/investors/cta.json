@@ -1,0 +1,17 @@
+{
+  "text": [
+    {
+      "text": "Learn more about our projects.",
+      "color": "alpha",
+      "variant": "h5"
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Our Projects",
+      "type": "PAGE",
+      "link": "/projects",
+      "variant": "primary"
+    }
+  ]
+}

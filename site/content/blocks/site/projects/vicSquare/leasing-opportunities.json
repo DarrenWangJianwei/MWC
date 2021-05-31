@@ -1,0 +1,31 @@
+{
+  "text": [
+    {
+      "text": "Leasing Opportunities",
+      "color": "omegaDarker",
+      "variant": "h1"
+    },
+    {
+      "text": "With full floor, base building shell, LED lighting.",
+      "color": "omegaDark",
+      "variant": "medium"
+    }
+  ],
+  "images": [
+    {
+      "src": "../../../../assets/projects/victoria_square/LeasingLayout.PNG",
+      "alt": "Leasing layout",
+      "radius": "lg",
+      "shadow": "xl",
+      "effects": ["fadeInLeft"]
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Contact Us",
+      "type": "MODAL",
+      "link": "contact",
+      "variant": "secondary"
+    }
+  ]
+}

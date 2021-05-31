@@ -9,6 +9,13 @@ module.exports = {
         createDemoPages: true,
         colorMode: true
       }
+    },
+    {
+      // ATTENTION: Match the theme name with the theme you installed
+      resolve: 'react-image-gallery',
+    },
+    {
+      resolve: 'axios',
     }
   ],
   // Customize your site metadata

@@ -32,6 +32,16 @@
                 "src": "../../assets/flexiblocks/icons/bxs-window-alt.svg",
                 "color": "#FE7245"
               }
+            },
+            {
+              "text": "Investors",
+              "type": "PAGE",
+              "link": "/investors",
+              "variant": "links.nav-dark",
+              "icon": {
+                "src": "../../assets/flexiblocks/icons/bxs-window-alt.svg",
+                "color": "#FE7245"
+              }
             }
           ]
         },

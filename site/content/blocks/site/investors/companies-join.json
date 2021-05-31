@@ -1,0 +1,27 @@
+{
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Join our happy community of clients",
+          "color": "omegaDarker",
+          "variant": "h2",
+          "space": 3
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "We have expertise in North American commercial real estate. We are also experts at commercial transaction negotiations and structuring debt to provide an efficient and effective way to acquire these assets.",
+          "color": "omegaDark",
+          "space": 3
+        },
+        {
+          "text": "For investors interested in adding real estate investment to their portfolio, we are seeking individual and institutional investors for future cash-flow positive project acquisitions. Interest on investments, paid quarterly, provide our investors with an immediate return, and a longer-term uplift as the property increases in value. As an investor, we encourage you to take a participatory role in the project, lending your expertise, experience and networks. We believe that an inclusive, team approach pools our skills and expertise together, fosters the best ideas and the best reassurance that your capital is well-invested.",
+          "color": "omegaDark"
+        }
+      ]
+    }
+  ]
+}

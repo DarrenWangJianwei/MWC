@@ -1,0 +1,22 @@
+{
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Transit",
+          "color": "omegaDarker",
+          "variant": "h3",
+          "space": 3
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "The Property is easily accessible by public transit, with two bus stops immediately adjacent to the Property, serving up to 4 individual bus routes.",
+          "color": "omegaDark"
+        }
+      ]
+    }
+  ]
+}

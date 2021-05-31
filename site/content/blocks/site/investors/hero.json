@@ -1,0 +1,18 @@
+{
+  "text": [
+    {
+      "text": "Values-driven, collaborative & goal-oriented",
+      "variant": "h1"
+    },
+    {
+      "text": "You’re a principled institutional or individual investor seeking to maximize your return on your capital investment. You’re also looking for the best defensive strategy to deal with uncertainty in other parts of the market. And you’re looking to participate with other experts and collaborate to achieve these goals.",
+      "variant": "medium"
+    }
+  ],
+  "images": [
+    {
+      "src": "../../../assets/index/heroImage.jpg",
+      "alt": "alt text"
+    }
+  ]
+}

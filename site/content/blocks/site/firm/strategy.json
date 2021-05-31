@@ -1,0 +1,74 @@
+{
+  "text": [
+    {
+      "text": "Our Strategy",
+      "color": "alpha",
+      "variant": "h4"
+    },
+    {
+      "text": "Focuses on Commercial Real Estate ",
+      "variant": "h2"
+    },
+    {
+      "text": "In close contact with commercial realtors across North America, we scour the continent for cash-flow positive acquisitions with potential to grow. Then we upgrade further with precision investments to modernize and expand the property. Our due diligence in advance of any investment ensures that we walk away from investments that don’t meet our exacting standards for performance and return on our investors’ capital. A key part of our strategy is to look for opportunities where we can become an essential part of the community. We recognize the importance of embracing, connecting and supporting our neighbourhoods. We have the ability and responsibility to enable positive change and facilitate growth and connection between customers, tenants and local communities.",
+      "color": "omegaDark",
+      "variant": "p"
+    }
+  ],
+  "images": [
+    {
+      "src": "../../../assets/index/feature-one.jpg",
+      "alt": "alt text"
+    }
+  ],
+  "collection": [
+    {
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-check-circle.svg",
+        "color": "beta"
+      },
+      "text": [
+        {
+          "text": "We spend time and effort to identify undervalued assets.",
+          "variant": "h5"
+        }
+      ]
+    },
+    {
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-check-circle.svg",
+        "color": "beta"
+      },
+      "text": [
+        {
+          "text": "We undertake an analytical review on the potential upside value of the asset.",
+          "variant": "h5"
+        }
+      ]
+    },
+    {
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-check-circle.svg",
+        "color": "beta"
+      },
+      "text": [
+        {
+          "text": "We work with stakeholders and local communities on the potential opportunities.",
+          "variant": "h5"
+        }
+      ]
+    },
+    {
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-check-circle.svg",
+        "color": "beta"
+      },
+      "text": [
+        {
+          "text": "We create wealth by making business connections, negotiating terms, providing management expertise, resource management and technology improvements.",
+          "variant": "h5"
+        }
+      ]
+    }
+  ]
+}

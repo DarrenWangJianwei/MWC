@@ -17,10 +17,5 @@ export default {
     borderRadius: `xl`,
     py: [4, 5],
     px: [4, 0]
-  },
-  teamContainer: {
-    'img, .block-overlay': {
-      borderRadius: `xl`
-    }
   }
 }

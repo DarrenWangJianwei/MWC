@@ -1,0 +1,31 @@
+{
+  "text": [
+    {
+      "text": "Mountwater Capital",
+      "color": "omegaDarker",
+      "variant": "h1"
+    },
+    {
+      "text": "With the peak of the Covid-19 pandemic behind us, Mountwater Capital is poised to take advantage of the shift back to retail spending and the bricks and mortar that support it.",
+      "color": "omegaDark",
+      "variant": "medium"
+    }
+  ],
+  "images": [
+    {
+      "src": "../../../assets/firm/office.jpg",
+      "alt": "alt text",
+      "radius": "lg",
+      "shadow": "xl",
+      "effects": ["fadeInLeft"]
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Contact Us",
+      "type": "MODAL",
+      "link": "contact",
+      "variant": "primary"
+    }
+  ]
+}

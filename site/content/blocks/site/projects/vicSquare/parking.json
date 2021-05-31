@@ -1,0 +1,22 @@
+{
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Parking",
+          "color": "omegaDarker",
+          "variant": "h3",
+          "space": 3
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "The property features 1,383 parking stalls, for a parking ratio of 4.87 /1,000 sq. ft.",
+          "color": "omegaDark"
+        }
+      ]
+    }
+  ]
+}

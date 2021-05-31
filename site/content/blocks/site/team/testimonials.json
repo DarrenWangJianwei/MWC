@@ -1,30 +1,78 @@
 {
   "text": [
     {
-      "text": "Out Team",
+      "text": "Experienced & high- achieving",
       "color": "alpha",
-      "variant": "h4"
+      "variant": "h2"
     },
     {
-      "text": "Leadership",
-      "variant": "h2"
+      "text": "Our Mountwater Capital leadership team has decades of combined experience in real estate transactions and positive return on property acquisitions. We are a committed and close-knit team, and we are passionate about what we do.",
+      "variant": "p",
+      "align":"left"
     }
   ],
   "collection": [
     {
+      "container": {
+        "variant": "cards.interactive"
+      },
+      "text": [
+        {
+          "text": "Tony Yan",
+          "variant": "h5"
+        },
+        {
+          "text": "CEO",
+          "variant": "h6",
+          "space": 2
+        },
+        {
+          "text": "Tony Yan has been investing in residential and commercial real estate in Canada for the past five years.",
+          "variant": "p",
+          "space": 5,
+          "align":"left"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "More",
+          "type": "MODAL",
+          "link": "TonyYan",
+          "variant": "primary-light"
+        }
+      ],
+      "avatar": {
+        "src": "../../../assets/flexiblocks/testimonials/john-doe.png",
+        "alt": "alt text"
+      }
+    },
+    {
+      "container": {
+        "variant": "cards.interactive"
+      },
       "text": [
         {
           "text": "Richard Cao",
           "variant": "h5"
         },
         {
-          "text": "COO",
+          "text": "President",
           "variant": "h6",
           "space": 2
         },
         {
-          "text": "Richard Cao brings his decades of experience running private companies and investing in real estate in China. Since 2014, Richard has called West Vancouver home where he built single family homes before turning his attention to the acquisition of multi-family properties, land integration and enclosed shopping malls.",
-          "variant": "p"
+          "text": "Richard Cao brings his decades of experience running private companies and investing in real estate in China.",
+          "variant": "p",
+          "space":5,
+          "align":"left"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "More",
+          "type": "MODAL",
+          "link": "RichardCao",
+          "variant": "primary-light"
         }
       ],
       "avatar": {
@@ -33,19 +81,30 @@
       }
     },
     {
+      "container": {
+        "variant": "cards.interactive"
+      },
       "text": [
         {
           "text": "Bing Wang",
           "variant": "h5"
         },
         {
-          "text": "Professional Accountant",
-          "variant": "h6",
-          "space": 2
+          "text": "CPA",
+          "variant": "h6"
         },
         {
-          "text": "Bing Wang is a financial professional and management consultant with a decade of experience providing financial and business services for private companies. A Chartered Professional Accountant, at Mountwater Capital Bing focuses on financing and structuring debt.",
-          "variant": "p"
+          "text": "Bing Wang is a financial professional and management consultant with a decade of experience providing financial and business services for private companies.",
+          "variant": "p",
+          "align":"left"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "More",
+          "type": "MODAL",
+          "link": "BingWang",
+          "variant": "primary-light"
         }
       ],
       "avatar": {
@@ -54,19 +113,32 @@
       }
     },
     {
+      "container": {
+        "variant": "cards.interactive"
+      },
       "text": [
         {
           "text": "Chen Tan",
           "variant": "h5"
         },
         {
-          "text": "Professional Accountant ",
+          "text": "CPA",
           "variant": "h6",
           "space": 2
         },
         {
-          "text": "Chen Tan is a Chartered Professional Accountant who graduated with honours from the Sauder School of Business. With a background in tax planning, Chen has more than 10 years of full-time experience as a senior tax manager in a major accounting firm and served as a senior tax auditor in the Canada Revenue Agency. Chen’s background is in helping high-asset families with tax planning. .",
-          "variant": "p"
+          "text": "Chen Tan is a Chartered Professional Accountant, Chen Tan graduated with honours from the UBC Sauder School of Business.",
+          "variant": "p",
+          "space":4,
+          "align":"left"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "More",
+          "type": "MODAL",
+          "link": "ChenTan",
+          "variant": "primary-light"
         }
       ],
       "avatar": {

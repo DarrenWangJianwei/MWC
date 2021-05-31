@@ -1,0 +1,31 @@
+{
+  "text": [
+    {
+      "text": "Richard Cao, **President**",
+      "color": "#805AD5",
+      "variant": "h2",
+      "space": 3
+    }
+  ],
+  "images": [
+    {
+      "src": "../../../assets/team/business_man.jpg",
+      "alt": "alt text"
+    }
+  ],
+  "collection": [
+    {
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-layer-plus.svg",
+        "color": "#805AD5",
+        "bg": "transparent"
+      },
+      "text": [
+        {
+          "text": "Richard Cao brings his decades of experience running private companies and investing in real estate in China. Since 2014, Richard has called West Vancouver home where he built single family homes before turning his attention to the acquisition of multi-family properties, land assembly and commercial properties. Richard is responsible for corporate development, investor relations and fund raising.",
+          "space": 1
+        }
+      ]
+    }
+  ]
+}

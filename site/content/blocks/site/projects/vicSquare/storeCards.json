@@ -1,0 +1,514 @@
+{
+  "text": [
+    {
+      "text": "Our stores",
+      "variant": "h2"
+    },
+    {
+      "text": "Last Update: 2021-05-21",
+      "variant": "medium"
+    }
+  ],
+  "collection": [
+    {
+      "container": {
+        "variant": "cards.interactive",
+        "link": {
+          "type": "PAGE",
+          "link": "/test"
+        }
+      },
+      "text": [
+        {
+          "text": "Location:#K5",
+          "color": "alphaDark"
+        },
+        {
+          "text": "Bell",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Electronics"
+        },
+        {
+          "text": "306-586-0515",
+          "color": "omegaDark"
+        },
+        {
+          "text": "150 ft"
+        }
+      ],
+      "images": [
+        {
+          "src": "../../../../assets/flexiblocks/blog/blog-1.jpg",
+          "alt": "alt text"
+        }
+      ]
+    },
+    {
+      "container": {
+        "variant": "cards.interactive",
+        "link": {
+          "type": "PAGE",
+          "link": "/test"
+        }
+      },
+      "text": [
+        {
+          "text": "Location:#40B",
+          "color": "alphaDark"
+        },
+        {
+          "text": "Cell Style",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Electronics"
+        },
+        {
+          "text": "306-559-2999",
+          "color": "omegaDark"
+        },
+        {
+          "text": "799 ft"
+        }
+      ],
+      "images": [
+        {
+          "src": "../../../../assets/flexiblocks/blog/blog-1.jpg",
+          "alt": "alt text"
+        }
+      ]
+    },
+    {
+      "container": {
+        "variant": "cards.interactive",
+        "link": {
+          "type": "PAGE",
+          "link": "/test"
+        }
+      },
+      "text": [
+        {
+          "text": "Location:#30A",
+          "color": "alphaDark"
+        },
+        {
+          "text": "The Source",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Electronics"
+        },
+        {
+          "text": "306-559-1699",
+          "color": "omegaDark"
+        },
+        {
+          "text": "2,235 ft"
+        }
+      ],
+      "images": [
+        {
+          "src": "../../../../assets/flexiblocks/blog/blog-1.jpg",
+          "alt": "alt text"
+        }
+      ]
+    },
+    {
+      "container": {
+        "variant": "cards.interactive",
+        "link": {
+          "type": "PAGE",
+          "link": "/test"
+        }
+      },
+      "text": [
+        {
+          "text": "Location:#13",
+          "color": "alphaDark"
+        },
+        {
+          "text": "The Wireless Age",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Electronics"
+        },
+        {
+          "text": "306-751-7728",
+          "color": "omegaDark"
+        },
+        {
+          "text": "675 ft"
+        }
+      ],
+      "images": [
+        {
+          "src": "../../../../assets/flexiblocks/blog/blog-1.jpg",
+          "alt": "alt text"
+        }
+      ]
+    },
+    {
+      "container": {
+        "variant": "cards.interactive",
+        "link": {
+          "type": "PAGE",
+          "link": "/test"
+        }
+      },
+      "text": [
+        {
+          "text": "Location:#28",
+          "color": "alphaDark"
+        },
+        {
+          "text": "Ardene",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Fashion & Accessories"
+        },
+        {
+          "text": "306-205-8115",
+          "color": "omegaDark"
+        },
+        {
+          "text": "3,163 ft"
+        }
+      ],
+      "images": [
+        {
+          "src": "../../../../assets/flexiblocks/blog/blog-1.jpg",
+          "alt": "alt text"
+        }
+      ]
+    },
+    {
+      "container": {
+        "variant": "cards.interactive",
+        "link": {
+          "type": "PAGE",
+          "link": "/test"
+        }
+      },
+      "text": [
+        {
+          "text": "Location:#16",
+          "color": "alphaDark"
+        },
+        {
+          "text": "Infiniti Leather",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Fashion & Accessories"
+        },
+        {
+          "text": "306-565-6303",
+          "color": "omegaDark"
+        },
+        {
+          "text": "975 ft"
+        }
+      ],
+      "images": [
+        {
+          "src": "../../../../assets/flexiblocks/blog/blog-1.jpg",
+          "alt": "alt text"
+        }
+      ]
+    },
+    {
+      "container": {
+        "variant": "cards.interactive",
+        "link": {
+          "type": "PAGE",
+          "link": "/test"
+        }
+      },
+      "text": [
+        {
+          "text": "Location:#54",
+          "color": "alphaDark"
+        },
+        {
+          "text": "Mark's",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Fashion & Accessories"
+        },
+        {
+          "text": "306-789-2990",
+          "color": "omegaDark"
+        },
+        {
+          "text": "18,485 ft"
+        }
+      ],
+      "images": [
+        {
+          "src": "../../../../assets/flexiblocks/blog/blog-1.jpg",
+          "alt": "alt text"
+        }
+      ]
+    },
+    {
+      "container": {
+        "variant": "cards.interactive",
+        "link": {
+          "type": "PAGE",
+          "link": "/test"
+        }
+      },
+      "text": [
+        {
+          "text": "Location:#14",
+          "color": "alphaDark"
+        },
+        {
+          "text": "Northern Reflections",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Fashion & Accessories"
+        },
+        {
+          "text": "306-525-2629",
+          "color": "omegaDark"
+        },
+        {
+          "text": "1,205 ft"
+        }
+      ],
+      "images": [
+        {
+          "src": "../../../../assets/flexiblocks/blog/blog-1.jpg",
+          "alt": "alt text"
+        }
+      ]
+    },
+    {
+      "container": {
+        "variant": "cards.interactive",
+        "link": {
+          "type": "PAGE",
+          "link": "/test"
+        }
+      },
+      "text": [
+        {
+          "text": "Location:#53",
+          "color": "alphaDark"
+        },
+        {
+          "text": "Premium Label Outlet",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Fashion & Accessories"
+        },
+        {
+          "text": "306-757-7737",
+          "color": "omegaDark"
+        },
+        {
+          "text": "10,413 ft"
+        }
+      ],
+      "images": [
+        {
+          "src": "../../../../assets/flexiblocks/blog/blog-1.jpg",
+          "alt": "alt text"
+        }
+      ]
+    },
+    {
+      "container": {
+        "variant": "cards.interactive",
+        "link": {
+          "type": "PAGE",
+          "link": "/test"
+        }
+      },
+      "text": [
+        {
+          "text": "Location:#30",
+          "color": "alphaDark"
+        },
+        {
+          "text": "Rick's/Bootlegger",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Fashion & Accessories"
+        },
+        {
+          "text": "306-789-2299",
+          "color": "omegaDark"
+        },
+        {
+          "text": "5,015 ft"
+        }
+      ],
+      "images": [
+        {
+          "src": "../../../../assets/flexiblocks/blog/blog-1.jpg",
+          "alt": "alt text"
+        }
+      ]
+    },
+    {
+      "container": {
+        "variant": "cards.interactive",
+        "link": {
+          "type": "PAGE",
+          "link": "/test"
+        }
+      },
+      "text": [
+        {
+          "text": "Location:#4",
+          "color": "alphaDark"
+        },
+        {
+          "text": "Suzanne's",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Fashion & Accessories"
+        },
+        {
+          "text": "306-525-8018"
+        },
+        {
+          "text": "2,014 ft"
+        }
+      ],
+      "images": [
+        {
+          "src": "../../../../assets/flexiblocks/blog/blog-1.jpg",
+          "alt": "alt text"
+        }
+      ]
+    },{
+      "container": {
+        "variant": "cards.interactive",
+        "link": {
+          "type": "PAGE",
+          "link": "/test"
+        }
+      },
+      "text": [
+        {
+          "text": "Location:#46",
+          "color": "alphaDark"
+        },
+        {
+          "text": "Safeway",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Grocery"
+        },
+        {
+          "text": "306-789-3191",
+          "color": "omegaDark"
+        },
+        {
+          "text": "45,895 ft"
+        }
+      ],
+      "images": [
+        {
+          "src": "../../../../assets/flexiblocks/blog/blog-1.jpg",
+          "alt": "alt text"
+        }
+      ]
+    },{
+      "container": {
+        "variant": "cards.interactive",
+        "link": {
+          "type": "PAGE",
+          "link": "/test"
+        }
+      },
+      "text": [
+        {
+          "text": "Location:#22",
+          "color": "alphaDark"
+        },
+        {
+          "text": "Beauty Depot",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Health & Beauty"
+        },
+        {
+          "text": "306-789-1445",
+          "color": "omegaDark"
+        },
+        {
+          "text": "2509 ft"
+        }
+      ],
+      "images": [
+        {
+          "src": "../../../../assets/flexiblocks/blog/blog-1.jpg",
+          "alt": "alt text"
+        }
+      ]
+    },{
+      "container": {
+        "variant": "cards.interactive",
+        "link": {
+          "type": "PAGE",
+          "link": "/test"
+        }
+      },
+      "text": [
+        {
+          "text": "Location:#20A",
+          "color": "alphaDark"
+        },
+        {
+          "text": "Luxury Nails",
+          "color": "omegaDarker",
+          "variant": "h5"
+        },
+        {
+          "text": "Health & Beauty"
+        },
+        {
+          "text": "306-569-2468",
+          "color": "omegaDark"
+        },
+        {
+          "text": "1298 ft"
+        }
+      ],
+      "images": [
+        {
+          "src": "../../../../assets/flexiblocks/blog/blog-1.jpg",
+          "alt": "alt text"
+        }
+      ]
+    }
+  ]
+}

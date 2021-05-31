@@ -1,0 +1,111 @@
+{
+  "text": [
+    {
+      "text": "Feel welcome and safe while operating your businesses and frequenting our properties.",
+      "color": "omegaDark",
+      "variant": "h4"
+    },
+    {
+      "text": "Why Choose Us Over Competition?",
+      "variant": "h2"
+    }
+  ],
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "All things experiential",
+          "variant": "h5"
+        },
+        {
+          "text": "restaurants, food courts, entertainment, shopping"
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-analyse.svg",
+        "bg": "transparent",
+        "color": "omega"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Professional",
+          "variant": "h5"
+        },
+        {
+          "text": "Spend time and effort to identify undervalued assets."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-chat.svg",
+        "bg": "transparent",
+        "color": "omega"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "Analytic Review",
+          "variant": "h5"
+        },
+        {
+          "text": "Undertake an analytical review on the value the company can add."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-dna.svg",
+        "bg": "transparent",
+        "color": "omega"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "High yields, Low volatility",
+          "variant": "h5"
+        },
+        {
+          "text": "leveraging the opportunity to own properties"
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-directions.svg",
+        "bg": "transparent",
+        "color": "omega"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "High returns",
+          "variant": "h5"
+        },
+        {
+          "text": "provide investors with an immediate return, and a longer-term uplift"
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-crown.svg",
+        "bg": "transparent",
+        "color": "omega"
+      }
+    },
+    {
+      "text": [
+        {
+          "text": "A well-connected network",
+          "variant": "h5"
+        },
+        {
+          "text": "In close contact with commercial realtors across North America."
+        }
+      ],
+      "icon": {
+        "src": "../../../assets/flexiblocks/icons/bx-data.svg",
+        "bg": "transparent",
+        "color": "omega"
+      }
+    }
+  ]
+}
