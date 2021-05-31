@@ -3,7 +3,7 @@ import mergeWith from 'lodash.mergewith'
 import { Text, Heading } from 'theme-ui'
 
 const headings = ['h1', 'h2', 'h3', 'h4', 'h5', 'h6']
-
+const aligns = ['left', 'center', 'right']
 const ContentText = ({ as: CustomComponent, content, children, ...props }) => {
   if (!content || content.length < 1) return null
 
@@ -14,7 +14,7 @@ const ContentText = ({ as: CustomComponent, content, children, ...props }) => {
 
     contentRest.mb = contentRest.space
 
-    const { variant, ...mergedProps } = mergeWith(
+    const { variant, align, ...mergedProps } = mergeWith(
       {},
       props,
       contentRest,
@@ -22,7 +22,7 @@ const ContentText = ({ as: CustomComponent, content, children, ...props }) => {
     )
 
     const isHeading = headings.includes(variant)
-
+    const isAlign = aligns.includes(align)
     // Replace special colored parts in headings
     let textWithSpecial = null
 
@@ -37,7 +37,7 @@ const ContentText = ({ as: CustomComponent, content, children, ...props }) => {
       }
     }
 
-    return isHeading ? (
+    const beforeAlign = isHeading ? (
       <Heading
         key={`item-${index}`}
         variant={variant}
@@ -50,6 +50,11 @@ const ContentText = ({ as: CustomComponent, content, children, ...props }) => {
       <Text key={`item-${index}`} variant={variant} {...mergedProps}>
         {children || text}
       </Text>
+    )
+    return isAlign ? (
+      <div style={{ textAlign: `${align}` }}>{beforeAlign}</div>
+    ) : (
+      <div>{beforeAlign}</div>
     )
   })
 }

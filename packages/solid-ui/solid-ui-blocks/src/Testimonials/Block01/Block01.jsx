@@ -4,9 +4,9 @@ import { Container, Flex, Box, css } from 'theme-ui'
 import Reveal from '@solid-ui-components/Reveal'
 import Divider from '@solid-ui-components/Divider'
 import ContentText from '@solid-ui-components/ContentText'
+import ContentButtons from '@solid-ui-components/ContentButtons'
 import ContentContainer from '@solid-ui-components/ContentContainer'
 import { ImQuotesRight } from 'react-icons/im'
-import { AiFillStar } from 'react-icons/ai'
 import WithDefaultContent from '@solid-ui-blocks/WithDefaultContent'
 import getImage from '@solid-ui-components/utils/getImage'
 
@@ -34,10 +34,14 @@ const TestimonialsBlock01 = ({ content: { text, collection } }) => (
     <Divider />
     <Divider />
     <Flex sx={{ mx: -3, flexWrap: `wrap` }}>
-      {collection?.map(({ container, avatar, text }, index) => (
+      {collection?.map(({ container, avatar, text, buttons }, index) => (
         <Box
           key={`item-${index}`}
-          sx={{ flexBasis: [`1`, null, `1/2`, `1/3`], flexGrow: 1, p: 3 }}
+          sx={{
+            flexBasis: [`1`, null, `1/2`, `1/4`],
+            flexGrow: 1,
+            p: 3
+          }}
         >
           <Reveal effect='fadeInLeft' delay={0.25 * (index + 2)}>
             <ContentContainer
@@ -53,10 +57,10 @@ const TestimonialsBlock01 = ({ content: { text, collection } }) => (
               />
               <ImQuotesRight css={css({ size: `icon.xs`, color: `alpha` })} />
               <ContentText content={text} />
-              {Array.from({ length: 5 }, (_, i) => (
-                <AiFillStar key={`item-${i}`} css={css({ color: `beta` })} />
-              ))}
+              <ContentButtons content={buttons} />
+              <Divider space={3} />
             </ContentContainer>
+            <Divider />
           </Reveal>
         </Box>
       ))}
