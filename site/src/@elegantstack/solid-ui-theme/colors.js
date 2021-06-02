@@ -9,7 +9,7 @@ export default {
   // Alpha (primary)
   alphaLighter: colors.blue[100],
   alphaLight: colors.blue[300],
-  alpha: colors.blue[500],
+  alpha: colors.blue[800],
   alphaDark: colors.blue[600],
   alphaDarker: colors.blue[800],
   // beta (secondary)

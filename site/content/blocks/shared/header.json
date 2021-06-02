@@ -40,7 +40,7 @@
           "text": "Contact Us",
           "type": "MODAL",
           "link": "contact",
-          "variant": "secondary"
+          "variant": "primary"
         }
       ]
     }
