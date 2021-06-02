@@ -1,0 +1,36 @@
+{
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "General",
+          "color": "omegaDarker",
+          "variant": "h2"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "By accessing this website you accept these Terms and Conditions and agree to be bound by same and you are deemed to have read, understood, and agreed to these Terms and Conditions. In the event you do not agree with these Terms and Conditions you should discontinue use of this website immediately.",
+          "color": "omegaDark",
+          "space":2
+        },
+        {
+          "text": "These Terms and Conditions apply to the www.artisreit.com website and such affiliated pages (collectively, the “Website”). These Terms and Conditions do not apply to external links to third party sites; in the event you access a third party website from the Website, you should consult that site’s terms and conditions of use.",
+          "color": "omegaDark",
+          "space":2
+        },
+        {
+          "text": "This site is owned and operated by Mountwater Capital (including without limitation any affiliates, subsidiaries and/or related entities, collectively, “MWC”).",
+          "color": "omegaDark",
+          "space":2
+        },
+        {
+          "text": "The use of the Website, including the Terms and Conditions shall be governed by the laws of the Province of British Columbia and the laws of Canada as applicable therein. You agree to attorn to the jurisdiction of the courts of the Province of British Columbia.",
+          "color": "omegaDark"
+        }
+      ]
+    }
+  ]
+}

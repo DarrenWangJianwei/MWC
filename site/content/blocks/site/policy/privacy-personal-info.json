@@ -1,0 +1,26 @@
+{
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "What is Personal Information?",
+          "color": "omegaDarker",
+          "variant": "h2"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "Personal information is any information about an identifiable person.",
+          "color": "omegaDark",
+          "space":2
+        },
+        {
+          "text": "This Policy is not intended to cover information other than personal information, such as business or anonymous information.",
+          "color": "omegaDark"
+        }
+      ]
+    }
+  ]
+}

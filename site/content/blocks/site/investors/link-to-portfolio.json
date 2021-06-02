@@ -1,16 +1,16 @@
 {
   "text": [
     {
-      "text": "Learn more about our projects.",
+      "text": "Learn more about our Portfolio.",
       "color": "alpha",
       "variant": "h5"
     }
   ],
   "buttons": [
     {
-      "text": "Our Projects",
+      "text": "Our Portfolio",
       "type": "PAGE",
-      "link": "/projects",
+      "link": "/portfolio",
       "variant": "primary"
     }
   ]

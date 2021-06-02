@@ -5,27 +5,23 @@ import Layout from '@solid-ui-layout/Layout'
 import Seo from '@solid-ui-components/Seo'
 import Divider from '@solid-ui-components/Divider'
 import ModalWithTabs from '@solid-ui-blocks/Modal/Block01'
-import ModalSimple from '@solid-ui-blocks/Modal/Block02'
 import Header from '@solid-ui-blocks/Header/Block01'
 import Content from '@solid-ui-blocks/Content/Block02'
 import Gallery from '@solid-ui-blocks/Blog/Block01'
-import Contact from '@solid-ui-blocks/CallToAction/Block02'
-import Team from '@solid-ui-blocks/Hero/Block03'
+import Consultation from '@solid-ui-blocks/Hero/Block03'
 import Footer from '@solid-ui-blocks/Footer/Block01'
 import { normalizeBlockContentNodes } from '@blocks-helpers'
 import styles from './_styles'
 
-const Services03 = props => {
+const Portfolio = props => {
   const { allBlockContent } = props.data
   const content = normalizeBlockContentNodes(allBlockContent?.nodes)
 
   return (
     <Layout {...props}>
-      <Seo title='Home' />
+      <Seo />
       {/* Modals */}
-      <ModalWithTabs content={content['authentication']} reverse />
       <ModalWithTabs content={content['contact']} />
-      <ModalSimple content={content['advertisement']} />
       {/* Blocks */}
       <Header content={content['header']} />
       <Divider space='5' />
@@ -36,7 +32,7 @@ const Services03 = props => {
       </Container>
       <Divider space='5' />
       <Container variant='wide' sx={styles.teamContainer}>
-        <Team content={content['team']} />
+        <Consultation content={content['schedule']} />
       </Container>
       <Divider space='5' />
       <Footer content={content['footer']} />
@@ -45,8 +41,8 @@ const Services03 = props => {
 }
 
 export const query = graphql`
-  query innerpageProjectsBlockContent {
-    allBlockContent(filter: { page: { in: ["site/projects", "shared"] } }) {
+  query innerpagePortfolioBlockContent {
+    allBlockContent(filter: { page: { in: ["site/portfolio", "shared"] } }) {
       nodes {
         ...BlockContent
       }
@@ -54,4 +50,4 @@ export const query = graphql`
   }
 `
 
-export default Services03
+export default Portfolio

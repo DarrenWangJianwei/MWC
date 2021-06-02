@@ -1,0 +1,26 @@
+{
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Privacy",
+          "color": "omegaDarker",
+          "variant": "h2"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "MWC respects the privacy and confidentiality of all information it receives and holds such information in accordance with applicable law. MWC has established and will continue to maintain reasonable safeguards to protect the security and confidentiality of personal information. However, by agreeing to the Terms and Conditions you acknowledge that due to the nature of the internet, privacy and confidentiality cannot be guaranteed. Furthermore, you acknowledge that your use of the Website may be subject to access or manipulation by, or disclosure to, third parties. MWC shall not be responsible or liable for any damages that you or any other person may suffer in connection with any breach of privacy, confidentiality, or security.",
+          "color": "omegaDark",
+          "space": 2
+        },
+        {
+          "text": "MWC may collect limited information regarding your internet connection, including, but not limited to your computer’s IP address. This information is collected to help measure traffic to the Website, the performance of servers, and to help diagnose and address any problems as they arise.",
+          "color": "omegaDark"
+        }
+      ]
+    }
+  ]
+}

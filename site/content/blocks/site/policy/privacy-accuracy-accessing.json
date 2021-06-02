@@ -1,0 +1,26 @@
+{
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Accuracy and Accessing Your Personal Information",
+          "color": "omegaDarker",
+          "variant": "h2"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "In order to ensure that the information relied on by MWC is accurate, you can ask to review your personal information by writing to MWC’s privacy officer, using any of the contact methods outlined below. MWC will give access to personal information in alternative form to an individual with a sensory disability as required by law.",
+          "color": "omegaDark",
+          "space":2
+        },
+        {
+          "text": "You can request that corrections be made where you can show that the personal information about you is incorrect or incomplete. Please note that under certain circumstances, you may not be permitted to view your records, such as where the disclosure of your records would cause security, legal or confidentiality concerns, could harm a third party, or is prohibited by law.",
+          "color": "omegaDark"
+        }
+      ]
+    }
+  ]
+}

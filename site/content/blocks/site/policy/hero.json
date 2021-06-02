@@ -1,0 +1,11 @@
+{
+  "images": [
+    {
+      "src": "../../../assets/policy/policy-hero.png",
+      "alt": "alt text",
+      "radius": "lg",
+      "shadow": "lg",
+      "effects": ["fadeInLeft"]
+    }
+  ]
+}

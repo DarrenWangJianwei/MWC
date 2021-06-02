@@ -4,34 +4,35 @@ import Layout from '@solid-ui-layout/Layout'
 import Seo from '@solid-ui-components/Seo'
 import Divider from '@solid-ui-components/Divider'
 import ModalWithTabs from '@solid-ui-blocks/Modal/Block01'
-import ModalSimple from '@solid-ui-blocks/Modal/Block02'
 import Header from '@solid-ui-blocks/Header/Block01'
-import Testimonials from '@solid-ui-blocks/Testimonials/Block01'
-import Contact from '@solid-ui-blocks/CallToAction/Block02'
+import Hero from '@solid-ui-blocks/Hero/Block03'
+import Content from '@solid-ui-blocks/Content/Block01'
 import Footer from '@solid-ui-blocks/Footer/Block01'
 import { normalizeBlockContentNodes } from '@blocks-helpers'
-import theme from '../_theme'
 
-const Team = props => {
+const Terms = props => {
   const { allBlockContent } = props.data
   const content = normalizeBlockContentNodes(allBlockContent?.nodes)
 
   return (
-    <Layout theme={theme} {...props}>
+    <Layout {...props}>
       <Seo title='Home' />
       {/* Modals */}
       <ModalWithTabs content={content['contact']} />
-      <ModalSimple content={content['TonyYan']} />
-      <ModalSimple content={content['RichardCao']} />
-      <ModalSimple content={content['BingWang']} />
-      <ModalSimple content={content['ChenTan']} />
       {/* Blocks */}
       <Header content={content['header']} />
       <Divider space='5' />
+      <Hero content={content['hero']} />
       <Divider space='5' />
-      <Testimonials content={content['team-member-cards']} />
+      <Content content={content['terms-condition']} />
+      <Divider space='4' />
+      <Content content={content['terms-general']} />
       <Divider space='3' />
-      <Contact content={content['link-to-firm']} />
+      <Content content={content['terms-disclaimer-limitation']} />
+      <Divider space='3' />
+      <Content content={content['terms-privacy']} />
+      <Divider space='3' />
+      <Content content={content['terms-copyrights-trademarks']} />
       <Divider space='5' />
       <Footer content={content['footer']} />
     </Layout>
@@ -39,12 +40,13 @@ const Team = props => {
 }
 
 export const query = graphql`
-  query innerpageSiteTeamBlockContent {
-    allBlockContent(filter: { page: { in: ["site/team", "shared"] } }) {
+  query innerpageTermsBlockContent {
+    allBlockContent(filter: { page: { in: ["site/terms", "shared"] } }) {
       nodes {
         ...BlockContent
       }
     }
   }
 `
-export default Team
+
+export default Terms

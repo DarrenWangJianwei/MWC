@@ -1,0 +1,21 @@
+{
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Retention of Your Personal Information",
+          "color": "omegaDarker",
+          "variant": "h2"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "MWC will retain personal information for as long as needed to satisfy the purposes for which it was collected or as otherwise permitted or required by law.",
+          "color": "omegaDark"
+        }
+      ]
+    }
+  ]
+}

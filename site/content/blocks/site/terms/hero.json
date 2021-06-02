@@ -1,0 +1,11 @@
+{
+  "images": [
+    {
+      "src": "../../../assets/terms/terms-hero.png",
+      "alt": "alt text",
+      "radius": "lg",
+      "shadow": "lg",
+      "effects": ["fadeInLeft"]
+    }
+  ]
+}

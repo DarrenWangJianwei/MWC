@@ -14,15 +14,49 @@
       ],
       "buttons": [
         {
-          "text": "Home",
-          "type": "ANCHOR",
-          "link": "#hero",
+          "text": "Firm",
+          "type": "PAGE",
+          "link": "/",
           "variant": "links.nav-light"
         },
         {
-          "text": "Contact Us",
-          "type": "MODAL",
-          "link": "contact",
+          "text": "Team",
+          "type": "PAGE",
+          "link": "/team",
+          "variant": "links.nav-light"
+        },
+        {
+          "text": "Investors",
+          "type": "PAGE",
+          "link": "/investors",
+          "variant": "links.nav-light"
+        },
+        {
+          "text": "Portfolio",
+          "type": "PAGE",
+          "link": "/protfolio",
+          "variant": "links.nav-light"
+        }
+        
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "Legal Stuff"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Term & Conditions",
+          "type": "PAGE",
+          "link": "/terms",
+          "variant": "links.nav-light"
+        },
+        {
+          "text": "Privacy Policy",
+          "type": "PAGE",
+          "link": "/policy",
           "variant": "links.nav-light"
         }
       ]

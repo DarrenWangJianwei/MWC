@@ -5,7 +5,6 @@ import Layout from '@solid-ui-layout/Layout'
 import Seo from '@solid-ui-components/Seo'
 import Divider from '@solid-ui-components/Divider'
 import ModalWithTabs from '@solid-ui-blocks/Modal/Block01'
-import ModalSimple from '@solid-ui-blocks/Modal/Block02'
 import Header from '@solid-ui-blocks/Header/Block01'
 import Hero from '@solid-ui-blocks/Hero/Block01'
 import Content from '@solid-ui-blocks/Content/Block01'
@@ -16,7 +15,7 @@ import Team from '@solid-ui-blocks/Hero/Block03'
 import { normalizeBlockContentNodes } from '@blocks-helpers'
 import styles from './_styles'
 
-const AboutUs01 = props => {
+const Firm = props => {
   const { allBlockContent } = props.data
   const content = normalizeBlockContentNodes(allBlockContent?.nodes)
 
@@ -24,19 +23,17 @@ const AboutUs01 = props => {
     <Layout {...props}>
       <Seo title='Home' />
       {/* Modals */}
-      <ModalWithTabs content={content['authentication']} reverse />
       <ModalWithTabs content={content['contact']} />
-      <ModalSimple content={content['advertisement']} />
       {/* Blocks */}
       <Header content={content['header']} />
       <Container variant='full' sx={styles.heroContainer}>
         <Hero content={content['hero']} reverse />
       </Container>
       <Divider space='5' />
-      <Content content={content['content-one']} />
+      <Content content={content['earning-building-retaining']} />
       <Divider space='5' />
       <Container variant='wide' sx={styles.teamContainer}>
-        <Team content={content['team']} />
+        <Team content={content['link-to-team']} />
       </Container>
       <Divider space='5' />
       <FeatureOne content={content['strategy']} />
@@ -60,4 +57,4 @@ export const query = graphql`
   }
 `
 
-export default AboutUs01
+export default Firm

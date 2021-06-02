@@ -1,0 +1,21 @@
+{
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Consent",
+          "color": "omegaDarker",
+          "variant": "h2"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "MWC will obtain your consent (through this Policy or other means) to collect, use or disclose personal information except where we are authorized or required by law to do so without consent.",
+          "color": "omegaDark"
+        }
+      ]
+    }
+  ]
+}

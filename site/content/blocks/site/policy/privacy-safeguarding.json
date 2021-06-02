@@ -1,0 +1,41 @@
+{
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Safeguarding Your Personal Information",
+          "color": "omegaDarker",
+          "variant": "h2"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "Personal information under MWC's control is protected by physical, organizational and technological safeguards appropriate to the sensitivity of the information.",
+          "color": "omegaDark",
+          "space":2
+        },
+        {
+          "text": "MWC will take all reasonable steps to ensure that your personal information is protected from misuse, interference, loss, unauthorized access, modification or disclosure.  Where your personal information is disclosed to third parties, such as service providers, MWC requires third parties who receive personal information to use safeguards equivalent to those in place at MWC to protect that information.",
+          "color": "omegaDark",
+          "space":2
+        },
+        {
+          "text": "Access to personal information will be limited to persons who need such personal information in order to allow MWC to provide you with its services.",
+          "color": "omegaDark",
+          "space":2
+        },
+        {
+          "text": "However, there is always a risk to sending personal information to any third party, and you should exercise caution before sending sensitive personal information to MWC or using less secure communication methods.",
+          "color": "omegaDark",
+          "space":2
+        },
+        {
+          "text": "Our Website may contain links to other websites. When you click on a link to another site, you leave the MWC site and this Policy will not apply to the handling of personal information on the other site. MWC is not responsible for, and does not endorse, the content, security, operation or reliability of any third party site linked on the Website. If you access such websites, either directly or via the Website, you should review the privacy policy of each site.",
+          "color": "omegaDark"
+        }
+      ]
+    }
+  ]
+}

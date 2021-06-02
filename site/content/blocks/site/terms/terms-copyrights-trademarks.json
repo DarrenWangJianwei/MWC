@@ -1,0 +1,27 @@
+{
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Copyrights and Trademarks",
+          "color": "omegaDarker",
+          "variant": "h2"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "This site has been developed by and is the property of MWC. All information and materials contained on this site are protected by copyright, trademark and/or other intellectual property laws of Canada and are the property of their respective owner(s). No person may copy, redistribute, reproduce, or republish in any form, or link to this site or its contents in any manner whatsoever, including by way of hyperlinks, unless that person has obtained the prior written consent of MWC.",
+          "color": "omegaDark",
+          "space":2
+        },
+        {
+          "text": "MWC owns or has obtained the right to use by license or otherwise the trademarks, logos, and domain names used on or in connection with the goods and services that it provides and displays on this site. The trademarks are protected by Canadian and foreign trademark laws. The display of trademarks on this site shall not in any way be construed as an implied license to use such trademarks. Third party marks are used with permission or under license.",
+          "color": "omegaDark",
+          "space":2
+        }
+      ]
+    }
+  ]
+}

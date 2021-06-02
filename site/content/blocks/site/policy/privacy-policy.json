@@ -1,0 +1,19 @@
+{
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "June 2, 2021",
+          "color": "omegaDark",
+          "variant": "h4"
+        },
+        {
+          "text": "Privacy Policy",
+          "color": "alpha",
+          "variant": "h1",
+          "space": 0
+        }
+      ]
+    }
+  ]
+}

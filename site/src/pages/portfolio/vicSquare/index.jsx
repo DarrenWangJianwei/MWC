@@ -5,7 +5,6 @@ import Layout from '@solid-ui-layout/Layout'
 import Seo from '@solid-ui-components/Seo'
 import Divider from '@solid-ui-components/Divider'
 import ModalWithTabs from '@solid-ui-blocks/Modal/Block01'
-import ModalSimple from '@solid-ui-blocks/Modal/Block02'
 import Header from '@solid-ui-blocks/Header/Block01'
 import Hero from '@solid-ui-blocks/Hero/Block02'
 import Hero2 from '@solid-ui-blocks/Hero/Block01'
@@ -62,7 +61,7 @@ const images = [
     thumbnail: digitaloceanspaces + '/victoria_square/gallery/VicSquare-10.jpg'
   }
 ]
-const AboutUs02 = props => {
+const VicSquare = props => {
   const { allBlockContent } = props.data
   const content = normalizeBlockContentNodes(allBlockContent?.nodes)
 
@@ -71,9 +70,7 @@ const AboutUs02 = props => {
       <Layout {...props}>
         <Seo title='Home' />
         {/* Modals */}
-        <ModalWithTabs content={content['authentication']} reverse />
         <ModalWithTabs content={content['contact']} />
-        <ModalSimple content={content['advertisement']} />
         {/* Blocks */}
         <Header content={content['header']} />
         <Divider space='5' />
@@ -112,7 +109,7 @@ const AboutUs02 = props => {
 export const query = graphql`
   query innerpageVicSquareBlockContent {
     allBlockContent(
-      filter: { page: { in: ["site/projects/vicSquare", "shared"] } }
+      filter: { page: { in: ["site/portfolio/vicSquare", "shared"] } }
     ) {
       nodes {
         ...BlockContent
@@ -121,4 +118,4 @@ export const query = graphql`
   }
 `
 
-export default AboutUs02
+export default VicSquare

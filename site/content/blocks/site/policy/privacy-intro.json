@@ -1,0 +1,31 @@
+{
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Introduction",
+          "color": "omegaDarker",
+          "variant": "h2"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "Mountwater Capital Trust (“MWC”) develops, owns and operates urban mixed-use properties.",
+          "color": "omegaDark",
+          "space":2
+        },
+        {
+          "text": "This Privacy Policy (the “Policy”) sets out the manner in which MWC and its affiliates collect, use, disclose and retain your personal information.",
+          "color": "omegaDark",
+          "space":2
+        },
+        {
+          "text": "When you submit personal information to MWC or its affiliates or authorize us to obtain personal information from other sources, you are agreeing to be bound by this Policy, including consenting to the collection, use, disclosure and management of your personal information in accordance with this Policy.",
+          "color": "omegaDark"
+        }
+      ]
+    }
+  ]
+}

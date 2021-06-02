@@ -1,0 +1,37 @@
+{
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Use and Disclosure of Personal Information",
+          "color": "omegaDarker",
+          "variant": "h2"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "Personal information collected by MWC will only be used or disclosed for purposes described in this Policy, for other purposes disclosed to you at the time of collecting such personal information, for example, as described on a lease or PAD agreement, or for purposes to which you have otherwise given your consent. Notwithstanding the preceding, MWC may use or disclose personal information without your consent where it is permitted or required by law. Refusing to provide or withdrawing your consent in respect of MWC's collecting or use of certain personal information may result in MWC being unable to conduct business with you.",
+          "color": "omegaDark",
+          "space":2
+        },
+        {
+          "text": "MWC may disclose your personal information to its affiliates, service providers, advisors, agents or representatives, as required, to initiate business with you, administer services to you, carry out MWC’s and its affiliates’ business operations (including organizational restructuring, financing, marketing or other transactions), communicate with you, and as required for MWC and its affiliates to meet regulatory or legal obligations. MWC may disclose personal information to third parties in connection with the potential sale or sale of all or part of its business, and as part of completing such a transaction.",
+          "color": "omegaDark",
+          "space":2
+        },
+        {
+          "text": "If MWC discloses personal information to third parties engaged to perform services for us, MWC prohibits the third party from using personal information for any purpose other than the specific purpose for which MWC supplies it.",
+          "color": "omegaDark",
+          "space":2
+        },
+        {
+          "text": "In the event MWC's affiliates or service providers are located in a foreign jurisdiction, they are subject to the laws of the jurisdiction in which they are located including laws regulating disclosure of personal information to government authorities. MWC will not however, transfer information outside of Canada without first taking reasonable steps to ensure that the personal information will receive adequate protection and that it will not be used or disclosed for unauthorized purposes. We may also de-identify, aggregate or anonymize information about you to identify trends, manage our business, develop statistical information, understand how we are performing, or develop relevant products, services or offers. Such information may also be shared with third parties for other analytical purposes, but will not personally identify any individual and therefore is not subject to our privacy policy.",
+          "color": "omegaDark",
+          "space":2
+        }
+      ]
+    }
+  ]
+}

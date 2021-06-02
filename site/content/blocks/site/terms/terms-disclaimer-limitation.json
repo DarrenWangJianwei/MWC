@@ -1,0 +1,38 @@
+{
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Disclaimer and Limitation of Liability",
+          "color": "omegaDarker",
+          "variant": "h2"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "The information provided is provided on an ‘as is’ basis. Artis uses reasonable efforts to ensure the information is accurate at the time of posting to the Website, however there is no guarantee the information is true and correct at all times. Artis makes no representations, warranties, or guarantees that use or results of the use of the Website is or will be accurate, reliable, current, uninterrupted, or without errors.",
+          "color": "omegaDark",
+          "space":2
+        },
+        {
+          "text": "MWC reserves the right change the content on the Website at any time or suspend the operation of the Website at any time without notice. MWC specifically reserves the right to edit, alter, modify, or change these Terms and Conditions without notice. You agree to be bound by such changes by continuing to use the Website following such changes.",
+          "color": "omegaDark",
+          "space":2
+        },
+        {
+          "text": "Your use of the Website is at your own risk and you assume full responsibility for risk of loss or damage of any kind whatsoever arising out of your use of the Website, including relying on information posted (including, without limitation, damages for loss of profits, loss of data, loss of business, business interruption, corruption of files, loss of business information, or any other pecuniary loss). Under no circumstances will MWC be liable to you for direct, indirect, general, special, incidental, consequential, punitive, or other damages arising out of your use of the Website.",
+          "color": "omegaDark",
+          "space":2
+        },
+        {
+          "text": "You agree to indemnify, defend, and hold MWC, its directors, officers, employees, affiliates, agents, contractors, and licensors harmless with respect to any suit, claims, liabilities, or costs arising out of your breach of these Terms and Conditions or your use or misuse of the Website.",
+          "color": "omegaDark",
+          "space":2
+        }
+        
+      ]
+    }
+  ]
+}

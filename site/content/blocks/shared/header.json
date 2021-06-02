@@ -29,7 +29,7 @@
         {
           "text": "Portfolio",
           "type": "PAGE",
-          "link": "/projects",
+          "link": "/portfolio",
           "variant": "links.nav-dark"
         }
       ]

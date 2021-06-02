@@ -1,0 +1,21 @@
+{
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "Contact MWC",
+          "color": "omegaDarker",
+          "variant": "h2"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "If you have any questions or concerns about this Policy or about MWC’s handling of your personal information, please contact MWC’s privacy officer.",
+          "color": "omegaDark"
+        }
+      ]
+    }
+  ]
+}

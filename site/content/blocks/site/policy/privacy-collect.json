@@ -1,0 +1,53 @@
+{
+  "collection": [
+    {
+      "text": [
+        {
+          "text": "How Does MWC Collect Your Personal Information?",
+          "color": "omegaDarker",
+          "variant": "h2"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "text": "We collect personal information about you from your interactions with us and from certain third parties and other sources.",
+          "color": "omegaDark",
+          "space":2
+        },
+        {
+          "text": "We obtain personal information from you through your interactions with us (including via email, telephone, and the internet) to provide you with information about our services (such as using the MWC website inquiry form), when you apply for services from us (such as on a lease application), and in the course of FCR providing you with service.",
+          "color": "omegaDark",
+          "space":2
+        },
+        {
+          "text": "We may also collect personal information about you from third parties, including from financial institutions, credit reporting agencies, and references you have provided. If MWC collects any personal information from a third-party enterprise, it will record the source of such personal information.",
+          "color": "omegaDark",
+          "space":2
+        },
+        {
+          "text": "We may also obtain general information related to your use of our website, through cookies and similar technologies. We do not collect personal information that can identify you when browsing our Website. However, certain non-identifying information such as an IP address, device identifier, internet tags and navigational data may be collected in order to understand how, when, and for how long a user visits our Website.",
+          "color": "omegaDark",
+          "space":2
+        },
+        {
+          "text": "Information gathered from the Website via cookies is used to provide you with a customized online experience and to improve our services, communications and marketing.",
+          "color": "omegaDark",
+          "space":2
+        },
+        {
+          "text": "You can manage website cookies in your browser settings, and you always have the choice to change these settings by accepting, rejecting, or deleting cookies. If you choose to change your settings, you may find that certain functions and features will not work as intended on the Website. All browser settings are slightly different, so to manage cookies, you should refer to the relevant settings within your browser. For more information on blocking cookies or targeted advertising, visit the Digital Advertising Alliance of Canada page at http://youradchoices.ca/choices/.",
+          "color": "omegaDark",
+          "space":2
+        },
+        {
+          "text": "MWC also uses Google Analytics, a web analytics tool from Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (“Google”). Google Analytics uses information obtained by the cookies to evaluate your use of the Website for us, to create reports on Website activities and to provide further services related to the Website and the internet usage for us. This information may be transmitted to a server in the USA and stored there. Please note that Google Analytics information may be disclosed to marketing agency partners that use the data to optimize marketing campaigns. Google will not associate your IP address with any other data held by Google. For more information on Google’s privacy policy in general and Google Analytics, please visit their website at www.google.ca/policies/privacy/ and www.google.com/analytics. You can deactivate the Google Analytics function with a browser add-on, which you can download at <https://tools.google.com/dlpage/gaoptout>. To do this you must install that browser add-on. This will prevent the analysis information from being sent to Google. MWC will not collect information indiscriminately and will limit collection of information to that which is reasonable and necessary for the purposes it was collected or as authorized by law.",
+          "color": "omegaDark",
+          "space":2
+        }
+        
+      ]
+    }
+  ]
+}
