@@ -96,25 +96,11 @@
         }
       ],
       "map": {
-        "lat": 49.327489,
-        "lng": -123.157468,
-        "zoom": 12
+        "lat": 59,
+        "lng": 30,
+        "zoom": 8
       },
       "collection": [
-        {
-          "text": [
-            {
-              "text": "+123 (4567) 8910",
-              "color": "omegaDarker",
-              "variant": "h6"
-            }
-          ],
-          "icon": {
-            "src": "../../assets/flexiblocks/icons/bx-phone.svg",
-            "color": "alpha",
-            "bg": "transaprent"
-          }
-        },
         {
           "text": [
             {
