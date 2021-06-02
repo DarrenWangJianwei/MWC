@@ -1,30 +1,35 @@
 import React from 'react'
 import GoogleMapReact from 'google-map-react'
-import { FaMapMarkerAlt } from 'react-icons/fa'
 
-const MapMarker = ({ lat, lng }) => (
-  <FaMapMarkerAlt size='42' color='#222' lat={lat} lng={lng} />
-)
+const GoogleMap = (content, { lat, lng, zoom }) => {
+  const renderMarkers = (map, maps) => {
+    let marker = new maps.Marker({
+      position: { lat: content.lat || lat, lng: content.lng || lng },
+      map,
+      title: 'Hello World!'
+    })
+    return marker
+  }
 
-const GoogleMap = (content, { lat, lng, zoom }) => (
-  <GoogleMapReact
-    bootstrapURLKeys={{
-      key: process.env.GATSBY_GOOGLE_MAP_KEY
-    }}
-    defaultCenter={{
-      lat: content.lat || lat,
-      lng: content.lng || lng
-    }}
-    defaultZoom={content.zoom || zoom}
-  >
-    <MapMarker lat={content.lat || lat} lng={content.lng || lng} />
-  </GoogleMapReact>
-)
+  return (
+    <GoogleMapReact
+      bootstrapURLKeys={{
+        key: process.env.GATSBY_GOOGLE_MAP_KEY
+      }}
+      defaultCenter={{
+        lat: content.lat || lat,
+        lng: content.lng || lng
+      }}
+      defaultZoom={content.zoom || zoom}
+      onGoogleApiLoaded={({ map, maps }) => renderMarkers(map, maps)}
+    ></GoogleMapReact>
+  )
+}
 
 GoogleMap.defaultProps = {
-  lat: 59.95,
-  lng: 30.33,
-  zoom: 12
+  lat: 49.32768,
+  lng: -123.1574,
+  zoom: 13
 }
 
 export default GoogleMap
