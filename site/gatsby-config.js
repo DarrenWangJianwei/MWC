@@ -22,6 +22,7 @@ module.exports = {
   siteMetadata: {
     title: 'Mountwater Capital',
     name: 'MountwaterCapital',
-    description: 'My site description...'
+    description: 'Mountwater Capital is connecting investors to cash-flow positive properties and driving growth for investors and communities alike.',
+    url:"https://www.mountwatercapital.com"
   }
 }
