@@ -35,6 +35,10 @@ const Seo = ({
     { itemprop: 'name', content: title || site.title },
     { itemprop: 'description', content: description },
     { name: 'description', content: description },
+    {
+      name: 'google-site-verification',
+      content: 'fycZoHMRTMBFtDDh6B_saQM4b6eM8vNYOb3je4MZb2o'
+    },
 
     { property: 'og:title', content: title || site.title },
     { property: 'og:description', content: description },
