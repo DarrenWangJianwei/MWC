@@ -23,6 +23,7 @@ module.exports = {
     title: 'Mountwater Capital',
     name: 'MountwaterCapital',
     description: 'Mountwater Capital is connecting investors to cash-flow positive properties and driving growth for investors and communities alike.',
-    url:"https://www.mountwatercapital.com"
+    url:"https://www.mountwatercapital.com",
+    keywords: ["private equity firm", "capital partnets", "private equity funds"],
   }
 }

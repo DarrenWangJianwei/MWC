@@ -21,7 +21,7 @@ const Firm = props => {
 
   return (
     <Layout {...props}>
-      <Seo title='Home' />
+      <Seo title='Mountwater Capital' description={'A Testing'} />
       {/* Modals */}
       <ModalWithTabs content={content['contact']} />
       {/* Blocks */}
