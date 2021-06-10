@@ -14,7 +14,7 @@
   "images": [
     {
       "src": "../../../assets/firm/office.jpg",
-      "alt": "alt text",
+      "alt": "Office Table",
       "radius": "lg",
       "shadow": "xl",
       "effects": ["fadeInLeft"]

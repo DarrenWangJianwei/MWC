@@ -19,7 +19,18 @@ const Portfolio = props => {
 
   return (
     <Layout {...props}>
-      <Seo />
+      <Seo
+        title='MWC Portfolio - Mountwater Capital'
+        description={'Commerical Real Estate.'}
+        url='https://www.mountwatercapital.com/portfolio'
+        thumbnail='https://mountwaterimages.sfo3.cdn.digitaloceanspaces.com/static/logo.JPG'
+        keywords={[
+          'MWC Portfolio',
+          'Victoria Square Centre',
+          'Capital City Centre East',
+          'Capital City Centre West'
+        ]}
+      />
       {/* Modals */}
       <ModalWithTabs content={content['contact']} />
       {/* Blocks */}

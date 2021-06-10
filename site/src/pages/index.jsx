@@ -21,7 +21,22 @@ const Firm = props => {
 
   return (
     <Layout {...props}>
-      <Seo title='Mountwater Capital' description={'A Testing'} />
+      <Seo
+        title='Mountwater Capital'
+        description={
+          'With the peak of the Covid-19 pandemic behind us, Mountwater Capital is poised to take advantage of the shift back to retail spending and the bricks and mortar that support it.'
+        }
+        url='https://www.mountwatercapital.com/'
+        type='website'
+        thumbnail='https://mountwaterimages.sfo3.cdn.digitaloceanspaces.com/static/logo.JPG'
+        keywords={[
+          'Best Investment Firm',
+          'West Vancouver',
+          'Canada',
+          'Commerical Real Estate',
+          'cash-flow positive properties'
+        ]}
+      />
       {/* Modals */}
       <ModalWithTabs content={content['contact']} />
       {/* Blocks */}

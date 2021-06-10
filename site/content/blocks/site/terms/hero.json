@@ -2,7 +2,7 @@
   "images": [
     {
       "src": "../../../assets/terms/terms-hero.png",
-      "alt": "alt text",
+      "alt": "Keyboard with Hand",
       "radius": "lg",
       "shadow": "lg",
       "effects": ["fadeInLeft"]

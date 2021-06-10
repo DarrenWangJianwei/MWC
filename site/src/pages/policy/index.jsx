@@ -16,7 +16,22 @@ const Policy = props => {
 
   return (
     <Layout {...props}>
-      <Seo title='Home' />
+      <Seo
+        title='MWC Privacy Policy - Mountwater Capital'
+        description={
+          'When you submit personal information to MWC or its affiliates or authorize us to obtain personal information from other sources, you are agreeing to be bound by this Policy, including consenting to the collection, use, disclosure and management of your personal information in accordance with this Policy.'
+        }
+        url='https://www.mountwatercapital.com/policy'
+        thumbnail='https://mountwaterimages.sfo3.cdn.digitaloceanspaces.com/static/logo.JPG'
+        keywords={[
+          'MWC Privacy Policy',
+          'MWC Collect Your Personal',
+          'Use and Disclosure of Personal Information',
+          'Retention of Your Personal Information',
+          'Safeguarding Your Personal Information',
+          'Accuracy and Accessing '
+        ]}
+      />
       {/* Modals */}
       <ModalWithTabs content={content['contact']} />
       {/* Blocks */}

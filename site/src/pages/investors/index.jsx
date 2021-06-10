@@ -22,7 +22,23 @@ const Investors = props => {
 
   return (
     <Layout theme={theme} {...props}>
-      <Seo />
+      <Seo
+        title='Investor Relations - Mountwater Capital'
+        description={
+          'You’re a principled institutional or individual investor seeking to maximize your return on your capital investment.You’re also looking for the best defensive strategy to deal with uncertainty in other parts of the market. And you’re looking to participate with other experts and collaborate to achieve these goals.'
+        }
+        url='https://www.mountwatercapital.com/investors'
+        thumbnail='https://mountwaterimages.sfo3.cdn.digitaloceanspaces.com/static/logo.JPG'
+        keywords={[
+          'Best Investment Firm',
+          'Values-driven',
+          'real estate investment ',
+          'cash-flow positive properties',
+          'Asset Management',
+          'Property Management',
+          'Investment Management'
+        ]}
+      />
       {/* Modals */}
       <ModalWithTabs content={content['contact']} />
       {/* Blocks */}

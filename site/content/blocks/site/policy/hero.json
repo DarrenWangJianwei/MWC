@@ -2,7 +2,7 @@
   "images": [
     {
       "src": "../../../assets/policy/policy-hero.png",
-      "alt": "alt text",
+      "alt": "writing person",
       "radius": "lg",
       "shadow": "lg",
       "effects": ["fadeInLeft"]

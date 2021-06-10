@@ -1,9 +1,15 @@
 {
   "text": [
     {
+      "text": "MWC Team Merbers",
+      "color": "alpha",
+      "variant": "h1"
+    },
+    {
       "text": "Experienced & high- achieving",
       "color": "alpha",
       "variant": "h2"
+
     },
     {
       "text": "Our Mountwater Capital leadership team has decades of combined experience in real estate transactions and positive return on property acquisitions. We are a committed and close-knit team, and we are passionate about what we do.",
@@ -43,7 +49,7 @@
       ],
       "avatar": {
         "src": "../../../assets/flexiblocks/testimonials/john-doe.png",
-        "alt": "alt text"
+        "alt": "Anonym Holder"
       }
     },
     {
@@ -77,7 +83,7 @@
       ],
       "avatar": {
         "src": "../../../assets/flexiblocks/testimonials/john-doe.png",
-        "alt": "alt text"
+        "alt": "Anonym Holder"
       }
     },
     {
@@ -109,7 +115,7 @@
       ],
       "avatar": {
         "src": "../../../assets/flexiblocks/testimonials/john-doe.png",
-        "alt": "alt text"
+        "alt": "Anonym Holder"
       }
     },
     {
@@ -143,7 +149,7 @@
       ],
       "avatar": {
         "src": "../../../assets/flexiblocks/testimonials/john-doe.png",
-        "alt": "alt text"
+        "alt": "Anonym Holder"
       }
     }
   ]

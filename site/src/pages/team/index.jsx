@@ -18,7 +18,22 @@ const Team = props => {
 
   return (
     <Layout theme={theme} {...props}>
-      <Seo title='Home' />
+      <Seo
+        title='MWC Team - Mountwater Capital'
+        description={
+          'Our Mountwater Capital leadership team has decades of combined experience in real estate transactions and positive return on property acquisitions. We are a committed and close-knit team, and we are passionate about what we do.'
+        }
+        url='https://www.mountwatercapital.com/team'
+        thumbnail='https://mountwaterimages.sfo3.cdn.digitaloceanspaces.com/static/logo.JPG'
+        keywords={[
+          'MWC Team Merbers',
+          'Experienced & high- achieving',
+          'Tony Yan',
+          'Richard Cao',
+          'Bing Wang',
+          'Chen Tan'
+        ]}
+      />
       {/* Modals */}
       <ModalWithTabs content={content['contact']} />
       <ModalSimple content={content['TonyYan']} />
