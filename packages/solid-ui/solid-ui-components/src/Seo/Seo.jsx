@@ -20,12 +20,12 @@ const Seo = ({
 
   description = excerpt || description || site.description
 
-  thumbnail = thumbnail && thumbnail.hero && thumbnail.hero.src
-  const thumbnailUrl =
-    thumbnail &&
-    (thumbnail.startsWith('//')
-      ? thumbnail
-      : siteUrl && `${siteUrl}${thumbnail}`)
+  // thumbnail = thumbnail && thumbnail.hero && thumbnail.hero.src
+  const thumbnailUrl = thumbnail
+  // thumbnail &&
+  // (thumbnail.startsWith('//')
+  //   ? thumbnail
+  //   : siteUrl && `${siteUrl}${thumbnail}`)
 
   /**
    * Meta Tags
