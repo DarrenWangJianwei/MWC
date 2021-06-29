@@ -3,7 +3,6 @@ import { Container, Flex, Box } from 'theme-ui'
 import ContentText from '@solid-ui-components/ContentText'
 import ContentContainer from '@solid-ui-components/ContentContainer'
 import ContentButtons from '@solid-ui-components/ContentButtons'
-import WithDefaultContent from '@solid-ui-blocks/WithDefaultContent'
 
 const CallToActionBlock02 = ({ content: { container, text, buttons } }) => (
   <Container>
@@ -25,4 +24,4 @@ const CallToActionBlock02 = ({ content: { container, text, buttons } }) => (
   </Container>
 )
 
-export default WithDefaultContent(CallToActionBlock02)
+export default CallToActionBlock02

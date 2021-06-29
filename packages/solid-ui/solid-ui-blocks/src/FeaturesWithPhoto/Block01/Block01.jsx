@@ -9,7 +9,6 @@ import FlexOverlapFade from '@solid-ui-components/FlexOverlapFade'
 import ContentImages from '@solid-ui-components/ContentImages'
 import ContentButtons from '@solid-ui-components/ContentButtons'
 import ContentText from '@solid-ui-components/ContentText'
-import WithDefaultContent from '@solid-ui-blocks/WithDefaultContent'
 
 const FeaturesWithPhotoBlock01 = ({
   content: { text, images, collection, buttons },
@@ -61,4 +60,4 @@ const FeaturesWithPhotoBlock01 = ({
   </Container>
 )
 
-export default WithDefaultContent(FeaturesWithPhotoBlock01)
+export default FeaturesWithPhotoBlock01

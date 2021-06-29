@@ -7,7 +7,6 @@ import ContentText from '@solid-ui-components/ContentText'
 import ContentButtons from '@solid-ui-components/ContentButtons'
 import ContentContainer from '@solid-ui-components/ContentContainer'
 import { ImQuotesRight } from 'react-icons/im'
-import WithDefaultContent from '@solid-ui-blocks/WithDefaultContent'
 import getImage from '@solid-ui-components/utils/getImage'
 
 const styles = {
@@ -60,6 +59,7 @@ const TestimonialsBlock01 = ({ content: { text, collection } }) => (
               <ContentButtons content={buttons} />
               <Divider space={3} />
             </ContentContainer>
+            <Divider space={4} />
             <Divider />
           </Reveal>
         </Box>
@@ -68,4 +68,4 @@ const TestimonialsBlock01 = ({ content: { text, collection } }) => (
   </Container>
 )
 
-export default WithDefaultContent(TestimonialsBlock01)
+export default TestimonialsBlock01

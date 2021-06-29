@@ -3,9 +3,7 @@ import { Link as GLink } from 'gatsby'
 import { GatsbyImage as Img } from 'gatsby-plugin-image'
 import { Container, Box, Flex } from 'theme-ui'
 import ContentText from '@solid-ui-components/ContentText'
-import PoweredByGatsby from '@solid-ui-components/PoweredByGatsby'
 import ContentButtons from '@solid-ui-components/ContentButtons'
-import WithDefaultContent from '@solid-ui-blocks/WithDefaultContent'
 import getImage from '@solid-ui-components/utils/getImage'
 
 const styles = {
@@ -66,4 +64,4 @@ FooterBlock01.defaultProps = {
   menuJustify: `flex-end`
 }
 
-export default WithDefaultContent(FooterBlock01)
+export default FooterBlock01

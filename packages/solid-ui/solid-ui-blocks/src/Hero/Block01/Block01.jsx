@@ -6,7 +6,6 @@ import Divider from '@solid-ui-components/Divider'
 import ContentImages from '@solid-ui-components/ContentImages'
 import QuickSignupForm from '@solid-ui-components/QuickSignupForm'
 import ContentButtons from '@solid-ui-components/ContentButtons'
-import WithDefaultContent from '@solid-ui-blocks/WithDefaultContent'
 
 const styles = {
   title: {
@@ -102,4 +101,4 @@ const HeroBlock01 = ({
   </Container>
 )
 
-export default WithDefaultContent(HeroBlock01)
+export default HeroBlock01

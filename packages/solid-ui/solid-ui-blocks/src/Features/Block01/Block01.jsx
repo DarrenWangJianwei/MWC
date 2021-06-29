@@ -5,7 +5,6 @@ import Divider from '@solid-ui-components/Divider'
 import ContentText from '@solid-ui-components/ContentText'
 import ContentButtons from '@solid-ui-components/ContentButtons'
 import ListItem from '@solid-ui-components/ListItem'
-import WithDefaultContent from '@solid-ui-blocks/WithDefaultContent'
 
 const styles = {
   listItem: {
@@ -47,4 +46,4 @@ const FeaturesBlock01 = ({ content: { text, collection, buttons } }) => (
   </Container>
 )
 
-export default WithDefaultContent(FeaturesBlock01)
+export default FeaturesBlock01

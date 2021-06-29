@@ -5,7 +5,6 @@ import Reveal from '@solid-ui-components/Reveal'
 import ContentImages from '@solid-ui-components/ContentImages'
 import ContentButtons from '@solid-ui-components/ContentButtons'
 import QuickSignupForm from '@solid-ui-components/QuickSignupForm'
-import WithDefaultContent from '@solid-ui-blocks/WithDefaultContent'
 
 const styles = {
   title: {
@@ -62,4 +61,4 @@ const HeroBlock02 = ({ content: { text, buttons, form, images } }) => (
   </Container>
 )
 
-export default WithDefaultContent(HeroBlock02)
+export default HeroBlock02

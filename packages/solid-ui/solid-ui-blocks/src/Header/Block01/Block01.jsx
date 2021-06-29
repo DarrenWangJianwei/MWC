@@ -6,7 +6,6 @@ import { Container, Box, Flex, css } from 'theme-ui'
 import Reveal from '@solid-ui-components/Reveal'
 import Drawer from '@solid-ui-components/Drawer'
 import ContentButtons from '@solid-ui-components/ContentButtons'
-import WithDefaultContent from '@solid-ui-blocks/WithDefaultContent'
 import getImage from '@solid-ui-components/utils/getImage'
 
 const styles = {
@@ -140,4 +139,4 @@ HeaderBlock01.defaultProps = {
   menuJustify: `flex-end`
 }
 
-export default WithDefaultContent(HeaderBlock01)
+export default HeaderBlock01

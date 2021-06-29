@@ -6,7 +6,6 @@ import Reveal from '@solid-ui-components/Reveal'
 import Divider from '@solid-ui-components/Divider'
 import ContentText from '@solid-ui-components/ContentText'
 import ContentButtons from '@solid-ui-components/ContentButtons'
-import WithDefaultContent from '@solid-ui-blocks/WithDefaultContent'
 import getImage from '@solid-ui-components/utils/getImage'
 
 import { FaRegClock } from 'react-icons/fa'
@@ -193,4 +192,4 @@ const BlogBlock01 = ({ content: { text, collection, buttons } }) => (
   </Container>
 )
 
-export default WithDefaultContent(BlogBlock01)
+export default BlogBlock01
