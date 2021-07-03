@@ -40,10 +40,7 @@ const FeaturesWithPhotoBlock01 = ({
               duration={1.5}
             >
               {collection.map((props, index) => (
-                <>
-                  <ListItem key={`item-${index}`} {...props} />
-                  <Divider space={2} />
-                </>
+                <ListItem key={`item-${index}`} {...props} />
               ))}
             </Reveal>
           </>

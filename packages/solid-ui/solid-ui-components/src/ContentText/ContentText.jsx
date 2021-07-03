@@ -52,9 +52,11 @@ const ContentText = ({ as: CustomComponent, content, children, ...props }) => {
       </Text>
     )
     return isAlign ? (
-      <div style={{ textAlign: `${align}` }}>{beforeAlign}</div>
+      <div key={`item-${index}`} style={{ textAlign: `${align}` }}>
+        {beforeAlign}
+      </div>
     ) : (
-      <div>{beforeAlign}</div>
+      <div key={`item-${index}`}>{beforeAlign}</div>
     )
   })
 }
