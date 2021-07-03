@@ -20,7 +20,7 @@
   ],
   "buttons": [
     {
-      "text": "Members ➜",
+      "text": "Board ➜",
       "type": "PAGE",
       "link": "/team",
       "variant": "secondary-light"
